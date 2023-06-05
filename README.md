@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Silverbone6
-- 👀 I’m interested in videogames, data science, music and video production and I.A.
+- 👋 Hi, I’m Marcos Villena, aka @Silverbone6
+- 👀 I'm a data science enthusiast, musician, and Japanese language student
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (dunno rn)
-- 📫 How to reach me: marcosvillena0106@gmail.com www.instagram.com/Silverbone6 www.youtube.com/marcoskunbass
-
-<!---
-Silverbone6/Silverbone6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧉 Born and raised in Buenos Aires, Argentina
+- 📫 How to reach me: marcosvillena0106@gmail.com www.instagram.com/Silverbone6 www.youtube.com/marcosvillena777
+- 🔤 We can talk in Spanish, English, French, Italian or Japanese
