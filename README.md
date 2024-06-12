@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcos Villena, aka @Silverbone6
+- 👋 Hi, I’m Marcos Gabriel Villena, aka @Silverbone6
 - 👀 I'm a data science enthusiast, musician, and Japanese language student
 - 🌱 18 years old, in my first year of Informatics Engineering (UBA)
 - 🧉 Born and raised in Buenos Aires, Argentina
