@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos Gabriel Villena, aka @Silverbone6
 - 👀 I'm a tech enthusiast, musician, and Japanese language student
-- 🌱 18 years old, in my first year of Informatics Engineering (UBA)
+- 🌱 19 years old, in my first year of Informatics Engineering (UBA)
 - 🧉 Born and raised in Buenos Aires, Argentina
 - 📫 How to reach me: marcosvillena0106@gmail.com www.instagram.com/Silverbone6
 - 🔤 We can talk in Spanish, English, French, Italian or Japanese
