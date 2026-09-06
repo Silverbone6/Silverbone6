@@ -2,5 +2,5 @@
 - 👀 I'm a tech enthusiast, musician, and Japanese language student
 - 🌱 19 years old, in my first year of Informatics Engineering (UBA)
 - 🧉 Born and raised in Buenos Aires, Argentina
-- 📫 How to reach me: marcosvillena0106@gmail.com www.instagram.com/Silverbone6
+- 📫 How to reach me: marcosvillena0106@gmail.com www.instagram.com/rielesdelplata
 - 🔤 We can talk in Spanish, English, French, Italian or Japanese
